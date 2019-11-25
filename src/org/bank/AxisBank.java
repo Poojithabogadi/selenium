@@ -11,7 +11,12 @@ public class AxisBank extends BankInfo {
 public void fixed(String name) {
 	// TODO Auto-generated method stub
 	System.out.println("employee has fixed deposit name:"+ name);
+	System.out.println("employee has fixed deposit name:"+ name);
+
 }
+
+
+
 @Override
 public void Deposit(long number) {
 	// TODO Auto-generated method stub
