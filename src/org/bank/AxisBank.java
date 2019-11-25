@@ -12,6 +12,8 @@ public void fixed(String name) {
 	// TODO Auto-generated method stub
 	System.out.println("employee has fixed deposit name:"+ name);
 	System.out.println("employee has fixed deposit name:"+ name);
+	System.out.println("employee has fixed deposit name:"+ name);
+
 
 }
 
