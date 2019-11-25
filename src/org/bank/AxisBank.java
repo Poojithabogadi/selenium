@@ -13,6 +13,8 @@ public void fixed(String name) {
 	System.out.println("employee has fixed deposit name:"+ name);
 	System.out.println("employee has fixed deposit name:"+ name);
 	System.out.println("employee has fixed deposit name:"+ name);
+	System.out.println("employee has fixed deposit name:"+ name);
+
 
 
 }
