@@ -12,6 +12,8 @@ public void fixed(String name) {
 	// TODO Auto-generated method stub
 	System.out.println("employee has fixed deposit name:"+ name);
 	System.out.println("employee has fixed deposit name:"+ name);
+	System.out.println("kjhg");
+
 
 }
 
@@ -27,7 +29,10 @@ public static void main(String[] args) {
 	a.saving(96);
 	a.fixed("poojitha");
 	a.Deposit(9652);
-	System.out.println("kjhg");
+
+
+	System.out.println("s");
+
 }
 	
 
