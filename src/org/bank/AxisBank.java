@@ -27,6 +27,7 @@ public static void main(String[] args) {
 	a.saving(96);
 	a.fixed("poojitha");
 	a.Deposit(9652);
+	System.out.println("s");
 }
 	
 
